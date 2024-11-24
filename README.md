@@ -1,6 +1,6 @@
 # nbs
 
---Archivos .nbs de Espina City
+--Archivos .nbs para servidores de Minecraft
 
 
 --Añadidos en la última actualización:
